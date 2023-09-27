@@ -1,0 +1,3 @@
+[submodule "cpp-mirai-client"]
+	path = cpp-mirai-client
+	url = https://github.com/Numendacil/cpp-mirai-client
